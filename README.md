@@ -1,2 +1,2 @@
-# chat-redis-nodejs-app
-Simple chat application based on nodejs + redis
+# Chat (Nodejs + Redis) App
+This is the best chat I have ever seen!
