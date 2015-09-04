@@ -1,2 +1,2 @@
-# Chat (Nodejs + Redis) App
+# ChatApp
 This is the best chat I have ever seen!
