@@ -1,0 +1,20 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  .row
+    .col-sm-5
+      hr
+      .chat
+        .form-group
+          input.chat-name.form-control(type='text' placeholder='Enter your name')
+        .chat-messages.form-control
+          .chat-message
+            | Hello
+          .chat-message
+            | Hello
+        .form-group
+          textarea.form-control(placeholder='Type your message' rows='3')
+        .chat-status Status:
+          span Idle
