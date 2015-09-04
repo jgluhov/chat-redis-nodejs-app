@@ -19,12 +19,6 @@ coverage
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
-# Webstorm metadata
-.idea/
-
-# MacOS filesystem store file
-*.DS_Store
-
 # node-waf configuration
 .lock-wscript
 
